@@ -27,8 +27,7 @@ Build a modern data warehouse using PostgreSQL to consolidate sales data, enabli
 - **Language:** Python  
 - **ETL Process:** Data extraction, transformation, and loading  
 - **Data Model:** Structured schema (Star/Snowflake)  
-- **Automation (Optional):** Apache Airflow  
-
+ 
 ---
 
 ## 📊 BI: Analytics and Reporting
@@ -51,7 +50,7 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 About Me
 Hi, I’m **Pooja Ravi**, a Data Engineer with **1.9 years of experience**.  
-I have hands-on experience in **Python, SQL, and backend development (FastAPI)**, and I currently work in a manufacturing domain (MES systems).
+I have hands-on experience in **Python, SQL, Apache Kafka, Apache NIFI, Grafana and tableau**, and I currently work in a manufacturing domain (MES systems).
 
 I am passionate about building scalable data pipelines, improving data quality, and transforming raw data into meaningful insights for business decisions.
 
